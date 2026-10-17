@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534804534033",
+    "project_id": "my-campus-hub-1b520",
+    "storage_bucket": "my-campus-hub-1b520.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534804534033:android:e47614be512e63d2b5f2b0",
+        "android_client_info": {
+          "package_name": "com.example.my_campus_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJ5N8XuvbgPOO1JE9CPWaxH12tw4gJig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
