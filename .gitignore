@@ -61,3 +61,5 @@ app.*.map.json
 !.env.example
 serviceAccountKey.json
 *service-account*.json
+
+/lib/firebase_options.dart
